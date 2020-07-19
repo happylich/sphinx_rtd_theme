@@ -8,6 +8,7 @@
 *.sass-cache
 *.map
 .ropeproject/
+.idea/
 .ruby-version
 dist/
 bower_components/
@@ -19,7 +20,7 @@ npm-debug.log
 pip-selfcheck.json
 sphinx_rtd_theme/static/fonts/Lato/
 sphinx_rtd_theme/static/fonts/RobotoSlab/
-.python-version
-.node-version
 sphinx_rtd_theme/static/js/html5shiv.min.js
 sphinx_rtd_theme/static/js/html5shiv-printshiv.min.js
+.node-version
+.python-version
